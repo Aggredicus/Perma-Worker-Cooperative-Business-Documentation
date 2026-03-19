@@ -1,0 +1,48 @@
+# CI: Lint and validate documentation
+# Runs on push/PR to main and when docs change.
+name: Docs Lint
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/docs-lint.yml'
+      - '.markdownlint.yaml'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/docs-lint.yml'
+      - '.markdownlint.yaml'
+
+jobs:
+  markdownlint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Lint markdown
+        run: markdownlint 'docs/**/*.md' 'README.md' --config .markdownlint.yaml
+
+  link-check:
+    name: Check Links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lychee link checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: 'docs/ README.md --no-progress'
+          fail: true
