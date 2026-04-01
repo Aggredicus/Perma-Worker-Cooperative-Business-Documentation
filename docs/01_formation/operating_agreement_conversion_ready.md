@@ -103,7 +103,7 @@ Until formal conversion, the following actions require Founder approval and may 
 - sale of substantial assets,
 - transfer of core IP,
 - merger, conversion, dissolution, or winding up,
-- incurrence of extraordinary debt above thresholds set by Founder policy,
+- incurrence of extraordinary debt in excess of the lesser of **$50,000 or 20% of trailing 12-month gross revenue**, excluding ordinary-course trade payables not used as disguised financing,
 - granting equity or profit-sharing rights that could impair future conversion design.
 
 ## 14. Conversion trigger review

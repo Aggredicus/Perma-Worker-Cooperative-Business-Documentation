@@ -61,3 +61,13 @@ For each decision, retain or link to the following where applicable:
 - Added fallback admissions process for pre-committee small-cooperative stage.
 - Added Governance Committee Charter and Emergency Authority Policy.
 - Added simulation gap memo to capture remaining implementation choices and professional-review items.
+
+
+## 2026-03-20 — Final governance parameters approved
+
+- Approved worker-owner membership capital contribution of **$1,000**, payable over up to **12 months**.
+- Approved capital redemption rule: refundable in principle on departure, but not immediately payable on demand and subject to solvency, reserve, and lawful-offset protections.
+- Approved **12-month** narrowly drafted no-solicitation term.
+- Approved extraordinary debt threshold of **the lesser of $50,000 or 20% of trailing 12-month gross revenue**, excluding ordinary-course trade payables not used as disguised financing.
+- Approved automatic sunset of Founder Director reserved-matter authority upon resignation or permanent incapacity absent an express lawful successor instrument.
+- Approved moderate founder-protected IP categories for conversion scheduling.

@@ -69,3 +69,17 @@ Before live use, have Michigan counsel and a CPA or EA review:
 ## Source-grounded notes
 
 Michigan states that LLC governance is set by the articles or operating agreement, and the Michigan LLC Act defines and recognizes operating agreements. Michigan’s employee-owned corporation act includes a definition of “worker cooperative,” which supports the repo’s direction for worker-ownership design. The IRS instructions for Form 1099-PATR state that cooperatives file the form for each person to whom at least $10 in patronage dividends or related distributions were paid, subject to the current instructions for the tax year in question.
+
+
+## Minimal-provenance finalization pass
+
+This pass intentionally retained the simulated-review package as the base version and changed only the approved follow-up governance parameters plus two supporting templates.
+
+Applied updates:
+- fixed worker-owner membership capital at **$1,000** payable over up to **12 months**;
+- clarified redemption as refundable in principle but not immediately payable on demand;
+- fixed non-solicitation at **12 months** with narrow drafting;
+- fixed extraordinary debt threshold at **the lesser of $50,000 or 20% of trailing 12-month gross revenue**;
+- fixed automatic sunset of Founder Director reserved-matter authority upon resignation or permanent incapacity absent an express lawful successor instrument;
+- added founder-protected IP categories to the conversion plan;
+- added membership candidate scorecard and emergency authority designation memo templates.

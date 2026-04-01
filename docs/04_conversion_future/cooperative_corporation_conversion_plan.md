@@ -51,17 +51,16 @@ The intended target design at conversion is:
 - one Founder Director seat during a limited hybrid period,
 - two Worker Director seats elected by members,
 - founder reserved matters limited to existential or constitutional topics,
-- founder reserved matters sunset at the earliest of 24 months post-conversion, five worker-owner members maintained for 90 days, or earlier consensual sunset,
+- founder reserved matters sunset at the earliest of 24 months post-conversion, five worker-owner members maintained for 90 days, earlier consensual sunset, or automatic sunset upon founder resignation/incapacity absent an express lawful successor instrument,
 - all board seats member-elected after sunset.
 
-## Founder-interest conversion questions to finalize before execution
+## Founder-interest conversion parameters to carry into execution
 
-These must be answered explicitly in the final conversion package:
-- Which founder-contributed IP remains protected by reserved matters during the transition?
-- Is any founder capital converted into a member capital account, a separate note, or another protected structure?
-- Are any founder-specific compensation or repayment rights transitional rather than permanent?
-- Is there any successor right to the Founder Director seat if the founder steps down before sunset?
-- What specific debt threshold will count as “extraordinary debt” for founder reserved-matter approval?
+The final conversion package should preserve the following approved parameters unless changed by later documented decision and counsel review:
+- Protected founder-contributed IP during the reserved period should include a moderate schedule covering core software and code repositories, brand marks, proprietary templates and map/design systems, documented methods and operating frameworks, and premium training or curriculum content identified on an attached schedule.
+- Founder-specific economic rights, if any, should be transitional rather than permanent and should be documented separately from ordinary worker-owner patronage rights.
+- There is **no successor right** to the Founder Director seat unless an express written successor instrument is adopted before the founder’s resignation, removal, or incapacity and is lawful under the final entity structure.
+- “Extraordinary debt” for founder reserved-matter approval means debt in excess of **the lesser of $50,000 or 20% of trailing 12-month gross revenue**, excluding ordinary-course trade payables not used as disguised financing.
 
 ## Workstreams
 
@@ -124,6 +123,17 @@ During the first 90 days after conversion, the Cooperative should:
 - run a mock patronage worksheet,
 - document founder reserved matters in a concise board reference memo,
 - review discipline and appeals procedures before a live dispute forces improvisation.
+
+## Founder-protected IP schedule categories
+
+Before conversion closing, attach a concise schedule identifying the specific founder-contributed assets that count as protected core IP during the reserved period. Unless narrowed by counsel, that schedule should use the following categories:
+- core software, source code repositories, deployment scripts, and technical architecture authored or controlled by the founder before conversion,
+- brand names, logos, marks, and distinctive trade dress associated with the enterprise,
+- proprietary templates, map editors, design systems, and client-delivery frameworks,
+- documented methods, operating frameworks, and internal training systems developed by the founder,
+- premium course, curriculum, and training content designated as founder-contributed content before conversion.
+
+The schedule should be narrow enough to avoid creating a general founder veto over ordinary operations.
 
 ## Review cadence before conversion
 

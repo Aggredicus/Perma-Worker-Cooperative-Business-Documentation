@@ -52,17 +52,20 @@ Subject to law and the Bylaws, Member has one vote on member matters while in go
 ## 6. Membership capital contribution
 
 ### 6.1 Amount
-Member shall contribute membership capital in the amount of **$[Amount]** unless modified by a written board-approved schedule.
+Member shall contribute membership capital in the amount of **$1,000** unless modified by a later board-approved policy that applies prospectively and uniformly.
 
 ### 6.2 Payment method
 The contribution shall be paid by one of the following approved methods:
 - lump sum,
 - payroll deduction,
-- staged payment schedule,
+- staged payment schedule of up to **12 months**,
 - another board-approved method documented in writing.
 
 ### 6.3 Failure to maintain contribution schedule
 If Member falls behind on an approved capital contribution schedule, the Cooperative shall provide notice and a reasonable cure period before any loss of good standing or other action, unless fraud or intentional evasion is involved.
+
+### 6.4 Redemption on departure
+The membership capital contribution is real member capital, not a fee. It is refundable in principle on departure, but it is **not** payable immediately on demand. The Cooperative may redeem all or part of the balance on a board-approved schedule that protects the Cooperative’s solvency, reserve floor, and operating stability. Any approved redemption may be reduced by lawful offsets for amounts owed by the Member to the Cooperative and may be paid in installments.
 
 ## 7. Good standing
 
@@ -156,7 +159,7 @@ To the extent permitted by law, the Cooperative may offset documented obligation
 
 ## 16. Non-solicitation and fair dealing
 
-For a period of **[6–12 months]** after separation, Member agrees not to intentionally solicit Cooperative employees or members away from the Cooperative using confidential information or active interference. This clause shall be interpreted narrowly and not to prohibit lawful competition unless separately agreed in a legally valid contract.
+For a period of **12 months** after separation, Member agrees not to intentionally solicit Cooperative employees, worker-owner members, current clients served by the Member through the Cooperative, or active prospects materially cultivated through Cooperative confidential information, away from the Cooperative by using confidential information or active interference. This clause shall be interpreted narrowly and not to prohibit lawful competition, general advertising, or the use of general skills and relationships not protected by law.
 
 ## 17. Dispute handling
 

@@ -156,7 +156,7 @@ The board shall consist of **three (3) directors**.
 
 ### 4.3 Transitional hybrid composition
 From conversion through the sunset of founder reserved matters, the board shall be composed as follows:
-- **one Founder Director seat**, initially filled by the founder or a founder-designated successor if allowed by the conversion plan,
+- **one Founder Director seat**, initially filled by the founder during the reserved period unless the conversion plan expressly preserves a lawful successor mechanism,
 - **two Worker Director seats**, elected by the members.
 
 After the sunset event defined in Article 11, all three seats shall be elected by the members unless the members lawfully amend these bylaws.
@@ -310,7 +310,7 @@ Until sunset under Section 11.4, the following actions require approval by the F
 - amendment of the mission statement in a way that materially changes the regenerative and worker-ownership character of the enterprise,
 - sale, exclusive license, or encumbrance of core founder-contributed IP identified in the conversion plan,
 - merger, dissolution, or sale of substantially all assets,
-- incurrence of extraordinary debt above thresholds set by board policy,
+- incurrence of extraordinary debt in excess of **the lesser of $50,000 or 20% of trailing 12-month gross revenue**, excluding ordinary-course trade payables not used as disguised financing,
 - amendment of these bylaws in a way that materially impairs the conversion protections promised in the approved conversion plan,
 - removal of the Founder Director seat before sunset.
 

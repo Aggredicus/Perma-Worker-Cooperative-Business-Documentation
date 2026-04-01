@@ -65,7 +65,7 @@ Worker Directors want to license core founder-contributed software on exclusive 
 The bylaws correctly classify this as a founder reserved matter and block action without Founder Director approval.
 
 ### Remaining note
-The conversion plan should attach a schedule identifying which founder-contributed IP actually counts as “core founder-contributed IP” so the reserved-matter boundary is concrete.
+The conversion plan now identifies approved founder-protected IP categories, but counsel should still narrow them into a final asset schedule before conversion closing.
 
 ## Scenario 6 — Founder Director vacancy
 
@@ -76,7 +76,7 @@ The Founder Director resigns unexpectedly during the reserved period.
 The revised bylaws now prevent the remaining directors from informally re-creating or refilling that seat without conversion-plan authority.
 
 ### Remaining note
-The conversion plan should explicitly decide whether there is any successor right or whether resignation triggers immediate sunset.
+The package now adopts automatic sunset on Founder Director resignation or permanent incapacity unless an express lawful successor instrument already exists.
 
 ## Scenario 7 — Emergency compliance event
 
@@ -88,21 +88,25 @@ This was previously under-documented. The new Emergency Authority Policy closes 
 
 ## Remaining items requiring deliberate approval or professional review
 
-1. Membership capital amount and payment schedule.
-2. Final non-solicitation period in the worker-owner membership agreement.
-3. Exact extraordinary-debt threshold for founder reserved matters.
-4. Specific list of founder-contributed IP covered during the reserved period.
-5. Final cooperative entity and filing path under Michigan law.
-6. CPA-reviewed patronage reporting workflow.
+1. Final cooperative entity and filing path under Michigan law.
+2. CPA-reviewed patronage reporting workflow.
+3. Final asset-level founder-protected IP schedule to attach before conversion closing.
 
 ## Redline recommendations for the next pass
 
 1. Add a one-page candidate scorecard as an appendix or template.
 2. Add a director/officer designation memo naming who holds emergency authority.
-3. Attach a schedule of founder-contributed core IP to the conversion plan.
-4. Fix the worker-owner agreement’s bracketed non-solicitation duration.
-5. Add one mediation/facilitation vendor selection note to board startup materials.
+3. Add one mediation/facilitation vendor selection note to board startup materials.
+4. Before conversion closing, attach an asset-level schedule under the already approved founder-protected IP categories.
 
 ## Practical conclusion
 
 After these revisions, the repo is much closer to a **usable cooperative governance package** rather than only a planning kit. The remaining issues are specific implementation choices and legal/tax finalization items, not major structural breakdowns.
+
+## Approved follow-up parameters now implemented
+
+- Membership capital set at **$1,000**, payable over up to **12 months**.
+- Membership capital is refundable in principle on departure, but not immediately payable on demand.
+- Non-solicitation period set at **12 months**, narrowly drafted.
+- Extraordinary debt threshold fixed at **the lesser of $50,000 or 20% of trailing 12-month gross revenue**.
+- Founder Director resignation or incapacity triggers automatic sunset absent an express lawful successor instrument.

@@ -4,6 +4,10 @@
 
 This policy defines how the Cooperative tracks membership capital, retained patronage, redemptions, and internal equity records.
 
+## Membership capital standard
+
+Unless prospectively changed by a uniformly applied board-approved policy, the standard worker-owner membership capital contribution is **$1,000**, payable by lump sum, payroll deduction, or another approved schedule of up to **12 months**.
+
 ## Records
 
 The Cooperative shall maintain for each member:
@@ -15,7 +19,7 @@ The Cooperative shall maintain for each member:
 
 ## No immediate redemption guarantee
 
-Repayment or redemption may be delayed if immediate payment would materially impair the Cooperative’s solvency or reserve floor.
+Membership capital is refundable in principle on departure, but repayment or redemption may be delayed if immediate payment would materially impair the Cooperative’s solvency, reserve floor, or operating stability. The Cooperative may apply lawful offsets and may redeem approved balances in installments.
 
 ## Priority
 
