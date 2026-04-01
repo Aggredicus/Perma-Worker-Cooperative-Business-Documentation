@@ -55,6 +55,9 @@ Operational rules that govern compensation, privacy, records, customer terms, an
 - `election_and_voting_procedure.md`
 - `capital_accounts_and_internal_equity_policy.md`
 - `meeting_agenda_and_resolution_templates.md`
+- `governance_committee_charter.md`
+- `emergency_authority_policy.md`
+- `governance_simulation_gap_memo.md`
 
 ### `docs/04_conversion_future`
 Future-state conversion documents to be finalized when the business transitions toward worker ownership.
@@ -84,7 +87,8 @@ The cooperative-governance package now reflects these approved structural choice
 - 2/3 member approval for expulsion after due process,
 - labor-compensation-based patronage,
 - narrow founder reserved matters with an automatic sunset framework,
-- added committee, conflict, election, discipline, and capital-account machinery.
+- added committee, conflict, election, discipline, emergency-authority, and capital-account machinery.
+- documented a simulation-based gap memo after post-revision boardroom stress testing.
 
 ## Practical use notes
 

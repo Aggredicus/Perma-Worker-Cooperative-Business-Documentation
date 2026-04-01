@@ -51,7 +51,13 @@ A membership application shall include at minimum:
 - proposed membership capital contribution arrangement.
 
 ### 2.5 Membership committee recommendation
-The Membership Committee shall review applications and issue a written recommendation to the board that states whether the applicant is recommended, recommended with conditions, or not recommended.
+If the Membership Committee exists, it shall review applications and issue a written recommendation to the board that states whether the applicant is recommended, recommended with conditions, or not recommended.
+
+If the Membership Committee has not yet been formed because the Cooperative is still small, the board shall designate either:
+- an ad hoc admissions panel of at least two non-conflicted persons, or
+- the full board acting without conflicted persons,
+
+to perform the same review function and create a written recommendation record.
 
 ### 2.6 Board recommendation
 The board shall review the application and committee report. A majority of the full board may recommend an eligible candidate to the members for admission vote. Without board recommendation, the application does not proceed to a member vote unless these bylaws are amended.
@@ -170,7 +176,9 @@ Worker Directors are elected by the members by plurality if more than two candid
 A Worker Director may be removed by a majority vote of the members at a meeting with quorum, with notice that removal is on the agenda. Removal for cause may be recommended by the Governance or Membership Committee.
 
 ### 4.8 Vacancies
-Board vacancies may be filled by majority vote of the remaining directors until the next member meeting, at which time members elect a replacement for the remainder of the unexpired term if required.
+A vacancy in a Worker Director seat may be filled by majority vote of the remaining directors until the next member meeting, at which time members elect a replacement for the remainder of the unexpired term if required.
+
+A vacancy in the Founder Director seat shall be handled only as provided in the conversion plan or by the automatic sunset rules in Article 11. The remaining directors may not redesignate or permanently refill the Founder Director seat on their own.
 
 ### 4.9 Quorum and board action
 - Board quorum is **two (2) directors**.
@@ -184,7 +192,7 @@ The board shall appoint at minimum a Chair, Secretary, and Treasurer or equivale
 The board shall meet at least quarterly and more often as necessary.
 
 ### 4.12 Board committees
-The board may create standing or special committees. The Membership Committee and Finance Committee should be maintained once the Cooperative has at least five worker-owner members or other operational complexity that justifies them.
+The board may create standing or special committees. The Membership Committee, Finance Committee, and any Governance Committee should ordinarily be maintained once the Cooperative has at least five worker-owner members or other operational complexity that justifies them. Before that point, the board may designate ad hoc panels for admissions, appeals, or governance review if neutrality can be maintained.
 
 ## Article 5 — Reserved powers and member powers
 
@@ -250,7 +258,7 @@ Before any expulsion vote:
 - the member shall receive written notice of the allegations,
 - the evidence summary shall be made available subject to confidentiality constraints,
 - the member shall have a meaningful opportunity to respond,
-- the member may attend the hearing with a support person if policy allows,
+- the member may attend the hearing with a support person, subject to reasonable confidentiality and process rules,
 - the board shall issue a written recommendation before the matter goes to the members.
 
 ### 7.5 Expulsion vote
@@ -279,7 +287,7 @@ If the board deadlocks on a material operational matter for two consecutive duly
 For non-reserved matters, unresolved deadlocks may be referred to member advisory discussion, outside facilitation, or a later board meeting with revised proposals. Deadlock does not automatically transfer ordinary board powers to the membership unless these bylaws or law so provide.
 
 ### 9.3 Emergency authority
-If immediate action is reasonably necessary to prevent serious legal, financial, safety, or operational harm and the board cannot convene in time, designated officers may act within the limits of the emergency authority policy and must promptly report the action to the board.
+If immediate action is reasonably necessary to prevent serious legal, financial, safety, or operational harm and the board cannot convene in time, designated officers may act within the limits of the Emergency Authority Policy and must promptly report the action to the board.
 
 ## Article 10 — Records, notices, and fiscal year
 

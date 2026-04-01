@@ -53,3 +53,11 @@ For each decision, retain or link to the following where applicable:
 - Approved labor-compensation-based patronage methodology.
 - Governance package expanded to include committee, conflict, election, discipline, board, and capital-account machinery.
 
+
+
+## Governance simulation follow-up
+
+- Confirmed approved cooperative architecture under simulation: hybrid founder-to-worker transition, 3-seat board, 2/3 admissions, 2/3 expulsion, labor-compensation patronage.
+- Added fallback admissions process for pre-committee small-cooperative stage.
+- Added Governance Committee Charter and Emergency Authority Policy.
+- Added simulation gap memo to capture remaining implementation choices and professional-review items.

@@ -66,6 +66,8 @@ If the board deadlocks on a material issue for two consecutive meetings:
 5. if still unresolved and non-emergency, the item is deferred or narrowed,
 6. if emergency, the least irreversible option should be preferred pending full resolution.
 
+If the deadlock concerns a founder reserved matter, no action is authorized unless the approvals required by the bylaws are actually obtained. If a recusal or vacancy prevents ordinary board action, the minutes should state whether the matter is deferred, referred for temporary replacement action under the bylaws, or escalated under a neutral mediation process.
+
 ## Executive session
 
 The board may enter executive session for personnel, litigation, investigation, confidential financing, or other legally sensitive matters.

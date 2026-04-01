@@ -24,6 +24,9 @@ This update converted the future-state cooperative materials from high-level out
 - `docs/03_governance_and_policies/election_and_voting_procedure.md`
 - `docs/03_governance_and_policies/capital_accounts_and_internal_equity_policy.md`
 - `docs/03_governance_and_policies/meeting_agenda_and_resolution_templates.md`
+- `docs/03_governance_and_policies/governance_committee_charter.md`
+- `docs/03_governance_and_policies/emergency_authority_policy.md`
+- `docs/03_governance_and_policies/governance_simulation_gap_memo.md`
 
 ## Approved design choices embedded in the documents
 
@@ -42,6 +45,16 @@ The prior package was strong as a transition roadmap but weak as a live governan
 - discipline and expulsion,
 - board deadlock,
 - founder-control drift after conversion.
+
+## Post-revision simulation findings
+
+A second simulation pass identified and closed several operational gaps that would have caused problems in a live small-cooperative setting:
+- admissions now work even before a formal Membership Committee exists,
+- founder-seat vacancies can no longer be informally refilled by remaining directors,
+- the repo now includes a Governance Committee Charter where director-removal review is referenced,
+- the repo now includes an Emergency Authority Policy where emergency action was previously referenced but not defined.
+
+A dedicated simulation memo was added at `docs/03_governance_and_policies/governance_simulation_gap_memo.md` to record scenario outcomes and remaining redline items.
 
 ## Remaining items for attorney / CPA review
 
